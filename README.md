@@ -1,4 +1,4 @@
-# ToixicityDetectionWikipediaComments#
+# ToxicityDetectionWikipediaComments#
 
 ## Code Sources:  
 
